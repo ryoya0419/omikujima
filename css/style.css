@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body {
+    background-color: #000;
+}
+
+header h1 {
+    text-align: center;
+    color: #fff;
+    margin-top: 32px;
+}
+
+.exaplain {
+    margin-top: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+.btn {
+    width: 152px;
+    height: 56px;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(212, 185, 88);
+    color: #fff;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+#canvas {
+    display: block;
+    margin: 64px auto;
+}
